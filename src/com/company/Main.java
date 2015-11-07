@@ -20,8 +20,8 @@ public class Main {
             System.out.println(x0);
         }
         if (delta<0){
-            System.out.println( "rozpi¹zi¹zanie nie ma");
-            
+            System.out.println( "nie ma rozwiazania");
+
 
         }
 
